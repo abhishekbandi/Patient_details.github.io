@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## Welcome to my project
 
-You can use the [editor on GitHub](https://github.com/abhishekbandi/email.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# HTML Form To Pdf using jspdf Library
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Hi, 
 
-### Markdown
+If you have stuck in converting the user date in to a pdf i recomed you to use a jspdf for your project that is super easy. where you have two option here 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1.Downlode the jspdf Library and pass the script tag in your main page.
+
+2.If you would like to use it by DOM just add this below script tag and start writing your javascript code.
+
+### Script
+
+Make shure that you add it after the body tag for reference you can see the code section
 
 ```markdown
-Syntax highlighted code block
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/1.3.4/jspdf.debug.js" integrity="sha512-234m/ySxaBP6BRdJ4g7jYG7uI9y2E74dvMua1JzkqM3LyWP43tosIqET873f3m6OQ/0N6TKyqXG4fLeHN9vKkg==" crossorigin="anonymous"></script>
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/1.3.4/jspdf.min.js" integrity="sha512-1g3IT1FdbHZKcBVZzlk4a4m5zLRuBjMFMxub1FeIRvR+rhfqHFld9VFXXBYe66ldBWf+syHHxoZEbZyunH6Idg==" crossorigin="anonymous"></script>
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/abhishekbandi/email.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
