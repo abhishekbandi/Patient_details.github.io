@@ -25,4 +25,4 @@ Make sure that you add it after the body tag for reference you can see the code 
 check the Demo Here:- https://abhishekbandi.github.io/Patient_details.github.io/
 
 
-![Image of Yaktocat](https://firebasestorage.googleapis.com/v0/b/abhishekhjcvjk.appspot.com/o/patient_information.gif?alt=media&token=2afa4aee-db46-4085-b337-c96dc2d24096)
+![Image of Yaktocat](https://firebasestorage.googleapis.com/v0/b/abhishekhjcvjk.appspot.com/o/info.gif?alt=media&token=f792b839-f0d5-42ca-9d38-93f1a7d2650a)
