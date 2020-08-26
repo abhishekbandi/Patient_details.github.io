@@ -12,7 +12,7 @@ If you have stuck in converting the user date in to a pdf i recomed you to use a
 
 ### Script
 
-Make shure that you add it after the body tag for reference you can see the code section
+Make sure that you add it after the body tag for reference you can see the code section
 
 ```markdown
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/1.3.4/jspdf.debug.js" integrity="sha512-234m/ySxaBP6BRdJ4g7jYG7uI9y2E74dvMua1JzkqM3LyWP43tosIqET873f3m6OQ/0N6TKyqXG4fLeHN9vKkg==" crossorigin="anonymous"></script>
