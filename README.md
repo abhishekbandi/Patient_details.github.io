@@ -1,5 +1,3 @@
-## Welcome to my project
-
 # HTML Form To Pdf using jspdf Library
 
 ## Hi there, 
